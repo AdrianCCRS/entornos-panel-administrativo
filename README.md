@@ -56,20 +56,20 @@ El archivo `index.html` se utilizó para incluir el script que inicia la aplicac
 A continuación, se presentan algunas capturas de las vistas del panel de administración:
 
 #### **Vista de Inicio**
-![inicio](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_clientes.png?raw=true)
+![inicio](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_inicio.png?raw=true)
 
 #### **Vista de Clientes**
-![clientes](./assets/view_clientes.png)
+![clientes](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_clientes.png?raw=true)
 
 #### **Vista de Proveedores**
-![proveedores](./assets/view_proveedores.png)
+![proveedores](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_proveedores.png?raw=true)
 
 #### **Vista de Usuarios**
-![usuarios](./assets/view_usuarios.png)
+![usuarios](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_usuarios.png?raw=true)
 
 #### **Vista de Logout**
-![logout](./assets/view_logout.png)
+![logout](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_logout.png?raw=true)
 
 #### **Vista de Error**
-![error](./assets/view_error.png)
+![error](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_error.png?raw=true)
 
