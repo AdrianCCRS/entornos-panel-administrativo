@@ -56,7 +56,7 @@ El archivo `index.html` se utilizó para incluir el script que inicia la aplicac
 A continuación, se presentan algunas capturas de las vistas del panel de administración:
 
 #### **Vista de Inicio**
-![inicio](./assets/view_inicio.png)
+![inicio](https://github.com/AdrianCCRS/entornos-panel-administrativo/blob/main/src/assets/view_clientes.png?raw=true)
 
 #### **Vista de Clientes**
 ![clientes](./assets/view_clientes.png)
